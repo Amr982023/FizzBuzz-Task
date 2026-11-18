@@ -1,0 +1,15 @@
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\bin\Debug\net10.0\FizzBuzz Task.exe
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\bin\Debug\net10.0\FizzBuzz Task.deps.json
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\bin\Debug\net10.0\FizzBuzz Task.runtimeconfig.json
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\bin\Debug\net10.0\FizzBuzz Task.dll
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\bin\Debug\net10.0\FizzBuzz Task.pdb
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\obj\Debug\net10.0\FizzBuzz Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\obj\Debug\net10.0\FizzBuzz Task.AssemblyInfoInputs.cache
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\obj\Debug\net10.0\FizzBuzz Task.AssemblyInfo.cs
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\obj\Debug\net10.0\FizzBuzz Task.csproj.CoreCompileInputs.cache
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\obj\Debug\net10.0\FizzBuzz Task.dll
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\obj\Debug\net10.0\refint\FizzBuzz Task.dll
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\obj\Debug\net10.0\FizzBuzz Task.pdb
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\obj\Debug\net10.0\FizzBuzz Task.genruntimeconfig.cache
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\obj\Debug\net10.0\ref\FizzBuzz Task.dll
+D:\cyber security\fundamentals\Projects\FizzBuzz Task\FizzBuzz Task\obj\Debug\net10.0\FizzBuzz.C33978E1.Up2Date
